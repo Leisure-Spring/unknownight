@@ -1,4 +1,4 @@
-baseURL = 'https://myblog.netlify.app/'
+baseURL = 'https://unknownight.netlify.app/'
 locale = 'en-us'
 title = '未明之夜'
 theme = 'PaperMod'
