@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>文章 on 未明之夜</title>
-    <link>https://unknownight.netlify.app/posts/</link>
-    <description>Recent content in 文章 on 未明之夜</description>
+    <title>远日的回声 on 未明之夜</title>
+    <link>https://unknownight.netlify.app/categories/%E8%BF%9C%E6%97%A5%E7%9A%84%E5%9B%9E%E5%A3%B0/</link>
+    <description>Recent content in 远日的回声 on 未明之夜</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 13:09:04 +0800</lastBuildDate>
-    <atom:link href="https://unknownight.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>At the Beginning</title>
-      <link>https://unknownight.netlify.app/posts/at-the-beginning/</link>
-      <pubDate>Tue, 29 Sep 2026 13:09:04 +0800</pubDate>
-      <guid>https://unknownight.netlify.app/posts/at-the-beginning/</guid>
-      <description>&lt;p&gt;经过长达几年的反复试错，我的个人博客（网站版）终于成功创建出来啦！因为等一会还要去上课，现在就随便写几句话，日后再重新编辑。&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://unknownight.netlify.app/categories/%E8%BF%9C%E6%97%A5%E7%9A%84%E5%9B%9E%E5%A3%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>At the Beginning</title>
       <link>https://unknownight.netlify.app/posts/1/</link>
