@@ -19,3 +19,14 @@ theme = 'PaperMod'
     name = "归档"
     url = "/archives/"
     weight = 30
+
+  [[menu.main]]
+    identifier = "echoes"
+    name = "远日的回声"
+    url = "/远日的回声/"
+    weight = 40
+  [[menu.main]]
+    identifier = "past"
+    name = "昔我往矣"
+    url = "/昔我往矣/"
+    weight = 50
