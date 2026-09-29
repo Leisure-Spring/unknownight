@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>未明之夜</title>
+    <link>https://myblog.netlify.app/</link>
+    <description>Recent content on 未明之夜</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2026 13:09:04 +0800</lastBuildDate>
+    <atom:link href="https://myblog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>At the Beginning</title>
+      <link>https://myblog.netlify.app/posts/at-the-beginning/</link>
+      <pubDate>Tue, 29 Sep 2026 13:09:04 +0800</pubDate>
+      <guid>https://myblog.netlify.app/posts/at-the-beginning/</guid>
+      <description>&lt;p&gt;经过长达几年的反复试错，我的个人博客（网站版）终于成功创建出来啦！因为等一会还要去上课，现在就随便写几句话，日后再重新编辑。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
