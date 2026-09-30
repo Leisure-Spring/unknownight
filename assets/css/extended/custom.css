@@ -2,3 +2,30 @@
 .post-content p {
     text-indent: 2em;
 }
+
+/* 让所有首页条目都变成卡片样式 */
+.post-entry {
+    background: var(--entry);          /* PaperMod 自带的灰底变量 */
+    border-radius: var(--radius);       /* 圆角 */
+    padding: var(--gap);               /* 内边距 */
+    margin-bottom: var(--gap);         /* 卡片间距 */
+    border: 1px solid var(--border);   /* 细边框，和 first-entry 一致 */
+    transition: transform 0.2s ease;
+}
+
+/* 悬停时轻微上浮，可选 */
+.post-entry:hover {
+    transform: translateY(-2px);
+}
+
+/* 让标题和摘要的间距更自然（PaperMod 默认已有，这里可微调） */
+.post-entry .entry-header h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.3rem;
+}
+
+.post-entry .entry-content {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--secondary);
+}
