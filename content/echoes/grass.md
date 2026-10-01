@@ -1,8 +1,10 @@
 +++
 title = '芳草萋萋'
+date = '2026-10-01'
 draft = false
 categories = ["远日的回声"]
-tags = ["远日的回声","正剧"]
+tags = ["远日的回声", "正剧"]
+summary = "我这个后面全部都没有编辑格式，累死了，以后再说。"
 weight = 90
 +++
 
