@@ -29,3 +29,7 @@
     font-size: 0.95rem;
     color: var(--secondary);
 }
+
+.fangsong {
+    font-family: FangSong, '仿宋', 'FangSong_GB2312', STFangsong, '华文仿宋', serif;
+}
