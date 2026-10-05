@@ -1,5 +1,6 @@
 +++
 title = '黑色、灰色、红色，和无休止的生活'
+date = '2024-11-09'
 draft = false
 categories = ["远日的回声"]
 tags = ["远日的回声","正剧"]
